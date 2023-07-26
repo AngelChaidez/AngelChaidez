@@ -53,7 +53,7 @@ Find out more about me & feel free to connect with me here:
   *Achieved on: DD/MM/YYYY*
 
 - Terraform Associate Certification
-  ![Terraform Associate Certification](https://example.com/badges/terraform_associate.png)
+  ![Terraform Associate Certification](https://www.credly.com/badges/29930ab1-06db-432a-846e-929c6a44aaa5/public_url)
   *Achieved on: DD/MM/YYYY*
 
 
