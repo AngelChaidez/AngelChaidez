@@ -1,3 +1,5 @@
+![GIF from Giphy](https://media.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif)
+
 ### Come one come all! Hello my name is Angel Chaidez, current student at Level Up in Tech studying DevOps and Cloud Computing. I have some experience with Java, MySQL, Python, R, VBA. I love to continous learning, love Linux although I am no expert.
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
