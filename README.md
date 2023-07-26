@@ -26,15 +26,15 @@ Find out more about me & feel free to connect with me here:
 ## ⚡ Certifications
 [AWS Certified DevOps Engineer - Professional](https://www.yourcertificationlink.com)
   ![AWS Certified DevOps Engineer - Professional](https://link.to.your.aws.devops.badge)
-  Description: Achieved AWS DevOps Associate Engineer - Professional certification on [date].
+  Description: Achieved AWS DevOps Associate Engineer - Professional certification on 03/2023.
   
 [Linux Essentials Certification](https://www.yourcertificationlink.com)
   ![Linux Essentials Certification](https://link.to.your.linux.essentials.badge)
-  Description: Earned Linux Essentials certification on [date].
+  Description: Earned Linux Essentials certification on 01/2023.
   
 - [Terraform Associate Certification](https://www.yourcertificationlink.com)
   ![Terraform Associate Certification](https://link.to.your.terraform.associate.badge)
-  Description: Obtained Terraform Associate certification on [date].
+  Description: Obtained Terraform Associate certification on 07/2023.
 
 
 
