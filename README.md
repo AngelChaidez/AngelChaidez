@@ -1,4 +1,4 @@
-![GIF from Giphy](https://media.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif)
+<iframe src="https://giphy.com/embed/mP8YqtjCNOB9HLyrn0" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-nbc-the-office-tv-mP8YqtjCNOB9HLyrn0">via GIPHY</a></p>
 
 ### Come one come all! Hello my name is Angel Chaidez, current student at Level Up in Tech studying DevOps and Cloud Computing. I have some experience with Java, MySQL, Python, R, VBA. I love to continous learning, love Linux although I am no expert.
 
