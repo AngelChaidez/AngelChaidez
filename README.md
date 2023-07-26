@@ -24,17 +24,15 @@ Find out more about me & feel free to connect with me here:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## ⚡ Certifications
-[AWS Certified DevOps Engineer - Professional](https://www.yourcertificationlink.com)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29930ab1-06db-432a-846e-929c6a44aaa5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  ![AWS Certified DevOps Engineer - Professional](https://link.to.your.aws.devops.badge)
+
+![AWS Certified DevOps Engineer - Professional](https://link.to.your.aws.devops.badge)
   Description: Achieved AWS DevOps Associate Engineer - Professional certification on 03/2023.
   
-[Linux Essentials Certification](https://www.yourcertificationlink.com)
-  ![Linux Essentials Certification](https://link.to.your.linux.essentials.badge)
+![Linux Essentials Certification](https://link.to.your.linux.essentials.badge)
   Description: Earned Linux Essentials certification on 01/2023.
   
-[Terraform Associate Certification](https://www.yourcertificationlink.com)
-  ![Terraform Associate Certification](https://www.credly.com/badges/29930ab1-06db-432a-846e-929c6a44aaa5/public_url)
+
+![Terraform Associate Certification](https://www.credly.com/badges/29930ab1-06db-432a-846e-929c6a44aaa5/public_url)
   Description: Obtained Terraform Associate certification on 07/2023.
 
 
