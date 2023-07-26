@@ -25,6 +25,7 @@ Find out more about me & feel free to connect with me here:
 
 ## ⚡ Certifications
 [AWS Certified DevOps Engineer - Professional](https://www.yourcertificationlink.com)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29930ab1-06db-432a-846e-929c6a44aaa5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   ![AWS Certified DevOps Engineer - Professional](https://link.to.your.aws.devops.badge)
   Description: Achieved AWS DevOps Associate Engineer - Professional certification on 03/2023.
   
