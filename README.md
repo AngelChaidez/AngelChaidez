@@ -26,6 +26,12 @@ Find out more about me & feel free to connect with me here:
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" alt="Trello" height="25">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" height="25">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" height="25">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" height="25">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian" height="25">
+  <img src="https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" height="25">
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" height="25">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" height="25">
 </div>
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
