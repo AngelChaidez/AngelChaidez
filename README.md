@@ -44,3 +44,16 @@ Find out more about me & feel free to connect with me here:
 
 ## ⚡ Certifications
 
+- AWS Certified DevOps Engineer - Professional
+  ![AWS Certified DevOps Engineer - Professional](https://example.com/badges/aws_devops_professional.png)
+  *Achieved on: DD/MM/YYYY*
+
+- Linux Essentials Certification
+  ![Linux Essentials Certification](https://example.com/badges/linux_essentials.png)
+  *Achieved on: DD/MM/YYYY*
+
+- Terraform Associate Certification
+  ![Terraform Associate Certification](https://example.com/badges/terraform_associate.png)
+  *Achieved on: DD/MM/YYYY*
+
+
