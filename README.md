@@ -23,6 +23,21 @@ Find out more about me & feel free to connect with me here:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+## ⚡ Certifications
+- [AWS Certified DevOps Engineer - Professional](https://www.yourcertificationlink.com)
+  ![AWS Certified DevOps Engineer - Professional](https://link.to.your.aws.devops.badge)
+  Description: Achieved AWS DevOps Associate Engineer - Professional certification on [date].
+  
+- [Linux Essentials Certification](https://www.yourcertificationlink.com)
+  ![Linux Essentials Certification](https://link.to.your.linux.essentials.badge)
+  Description: Earned Linux Essentials certification on [date].
+  
+- [Terraform Associate Certification](https://www.yourcertificationlink.com)
+  ![Terraform Associate Certification](https://link.to.your.terraform.associate.badge)
+  Description: Obtained Terraform Associate certification on [date].
+
+
+
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AngelChaidez&count_private=true&show_icons=true&include_all_commits=true)
