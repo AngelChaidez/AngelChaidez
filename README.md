@@ -24,11 +24,11 @@ Find out more about me & feel free to connect with me here:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## ⚡ Certifications
-- [AWS Certified DevOps Engineer - Professional](https://www.yourcertificationlink.com)
+[AWS Certified DevOps Engineer - Professional](https://www.yourcertificationlink.com)
   ![AWS Certified DevOps Engineer - Professional](https://link.to.your.aws.devops.badge)
   Description: Achieved AWS DevOps Associate Engineer - Professional certification on [date].
   
-- [Linux Essentials Certification](https://www.yourcertificationlink.com)
+[Linux Essentials Certification](https://www.yourcertificationlink.com)
   ![Linux Essentials Certification](https://link.to.your.linux.essentials.badge)
   Description: Earned Linux Essentials certification on [date].
   
