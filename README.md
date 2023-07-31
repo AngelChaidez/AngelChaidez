@@ -50,7 +50,7 @@ Find out more about me & feel free to connect with me here:
 
 
 - Linux Essentials Certification
-  ![Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000555660/pgtnmbmpkm)
+  [Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000555660/pgtnmbmpkm)
   *Achieved on: 02/02/2023*
 
   	
