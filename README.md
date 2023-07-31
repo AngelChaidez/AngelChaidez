@@ -1,21 +1,5 @@
 <img src="https://media.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif" alt="GIF from Giphy" width="240" height="200">
- <style>
- img[src^="https://images.credly.com/size/"] {
-      width: 60px !important;
-      height: 60px !important;
-    }
- .certifications {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .cert-image {
-      max-width: 100%;
-      max-height: 60px; /* Adjust the height as needed */
-      margin: 5px;
-    }
-    </style>
+ 
 
 ### Come one come all! Hello my name is Angel Chaidez, current student at Level Up in Tech studying DevOps and Cloud Computing. I have some experience with Java, MySQL, Python, R, VBA. I love to continous learning, love Linux although I am no expert.
 
@@ -76,9 +60,4 @@ Find out more about me & feel free to connect with me here:
   *Achieved on: 07/04/2023*
 
 
-<div class="certifications">
-  	<img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png">
-  	<img src="https://images.credly.com/size/340x340/images/f414bc95-cdcb-4ac9-bdcc-38d3bc6fa386/LPI_Essentials.png">
-  	<img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
-  </div>
 
