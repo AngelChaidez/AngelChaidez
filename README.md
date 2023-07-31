@@ -47,14 +47,18 @@ Find out more about me & feel free to connect with me here:
 - AWS Certified DevOps Engineer - Professional
   ![AWS Certified DevOps Engineer - Professional](https://www.credly.com/badges/558530a8-d526-495c-be3f-eab9409743fc/public_url)
   *Achieved on: 03/25/2023*
+  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png">
 
 - Linux Essentials Certification
   ![Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000555660/pgtnmbmpkm)
   *Achieved on: 02/02/2023*
+  <img src="https://images.credly.com/size/340x340/images/f414bc95-cdcb-4ac9-bdcc-38d3bc6fa386/LPI_Essentials.png">
+  	
 
 - Terraform Associate Certification
   ![Terraform Associate Certification](https://www.credly.com/badges/29930ab1-06db-432a-846e-929c6a44aaa5/public_url)
   *Achieved on: 07/04/2023*
+  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
 
 
 
