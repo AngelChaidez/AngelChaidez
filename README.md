@@ -46,7 +46,8 @@ Find out more about me & feel free to connect with me here:
 
 - AWS Certified DevOps Engineer - Professional
   ![AWS Certified DevOps Engineer - Professional]
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="558530a8-d526-495c-be3f-eab9409743fc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  [My Certification](https://www.credly.com/badges/558530a8-d526-495c-be3f-eab9409743fc/public_url)
+
   *Achieved on: 03/25/2023*
 
 
