@@ -57,7 +57,7 @@ Find out more about me & feel free to connect with me here:
   	
 
 - Terraform Associate Certification
-  ![Terraform Associate Certification](https://www.credly.com/badges/29930ab1-06db-432a-846e-929c6a44aaa5/public_url)
+  [Terraform Associate Certification](https://www.credly.com/badges/29930ab1-06db-432a-846e-929c6a44aaa5/public_url)
   *Achieved on: 07/04/2023*
 
 
