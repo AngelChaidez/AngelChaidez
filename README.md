@@ -1,4 +1,5 @@
 <img src="https://media.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif" alt="GIF from Giphy" width="240" height="200">
+ <style>
  img[src^="https://images.credly.com/size/"] {
       width: 60px !important;
       height: 60px !important;
@@ -14,6 +15,7 @@
       max-height: 60px; /* Adjust the height as needed */
       margin: 5px;
     }
+    </style>
 
 ### Come one come all! Hello my name is Angel Chaidez, current student at Level Up in Tech studying DevOps and Cloud Computing. I have some experience with Java, MySQL, Python, R, VBA. I love to continous learning, love Linux although I am no expert.
 
