@@ -26,13 +26,12 @@
 ## ⚡ Certifications
 
 ### AWS Certified DevOps Engineer - Professional
-[![AWS Certified DevOps Engineer - Professional](https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
+<a href="https://www.credly.com/badges/558530a8-d526-495c-be3f-eab9409743fc/public_url"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" height="150" alt="AWS Certified DevOps Engineer - Professional" /></a>
 *Achieved on: 03/25/2023*
 
 ### Terraform Associate Certification
-[![Terraform Associate Certification](https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)
+<a href="https://www.credly.com/badges/29930ab1-06db-432a-846e-929c6a44aaa5/public_url"><img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="150" height="150" alt="Terraform Associate Certification" /></a>
 *Achieved on: 07/04/2023*
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
