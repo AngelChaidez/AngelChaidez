@@ -30,7 +30,7 @@
 *Achieved on: 03/25/2023*
 
 ### Linux Essentials Certification
-[![Linux Essentials Certification](https://images.credly.com/size/110x110/images/0f8f85f5-f388-4a1e-b85f-bab5a458f7b1/aws-certified-devops-engineer-professional.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000555660/pgtnmbmpkm)
+[![Linux Essentials Certification](http://www.lpi.org/)
 *Achieved on: 02/02/2023*
 
 ### Terraform Associate Certification
