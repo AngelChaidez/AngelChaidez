@@ -34,7 +34,7 @@
 *Achieved on: 02/02/2023*
 
 ### Terraform Associate Certification
-[![Terraform Associate Certification](https://images.credly.com/size/110x110/images/0f8f85f5-f388-4a1e-b85f-bab5a458f7b1/aws-certified-devops-engineer-professional.png)](https://www.credly.com/badges/29930ab1-06db-432a-846e-929c6a44aaa5/public_url)
+[![Terraform Associate Certification](https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)
 *Achieved on: 07/04/2023*
 
 <h3 align="left">Connect with me:</h3>
