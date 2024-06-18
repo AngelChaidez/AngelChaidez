@@ -1,63 +1,44 @@
-<img src="https://media.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif" alt="GIF from Giphy" width="240" height="200">
- 
+<h1 align="center">Hi 👋, I'm Angel Chaidez (CloudGeek)</h1>
+<h3 align="center">DevOps Engineer passionate about automation!</h3>
 
-### Come one come all! Hello my name is Angel Chaidez, current student at Level Up in Tech studying DevOps and Cloud Computing. I have some experience with Java, MySQL, Python, R, VBA. I love to continous learning, love Linux although I am no expert.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelchaidez&label=Profile%20views&color=0e75b6&style=flat" alt="angelchaidez" /> </p>
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelchaidez" alt="angelchaidez" /></a> </p>
 
-Find out more about me & feel free to connect with me here:
+<p align="left"> <a href="https://twitter.com/raiderbrick" target="blank"><img src="https://img.shields.io/twitter/follow/raiderbrick?logo=twitter&style=for-the-badge" alt="raiderbrick" /></a> </p>
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+- 🔭 I’m currently working on **Cypress E2E testing**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Angel%20Chaidez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/angel-chaidez-23722645/)
-[![Medium Badge](https://img.shields.io/badge/Angel%20Chaidez-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/in/angel-chaidez-23722645/)](https://medium.com/@angelomarchaidez)
-[![Gmail Badge](https://img.shields.io/badge/-angelomarchaidez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelomarchaidez@gmail.com)](mailto:angelomarchaidez@gmail.com.com)
+- 🌱 I’m currently mastering/learning **Kubernetes and Ansible**
 
-## ⚡ Technologies
+- 👯 I’m looking to collaborate on **CI/CD actions**
 
-<!-- Check out the Badges folder for more badges -->
+- 🤝 I’m looking for help with **DevOps**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" alt="Amazon AWS" height="25">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" height="25">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" height="25">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python" height="25">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="25">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" alt="Trello" height="25">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25">
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" height="25">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java" alt="Java" height="25">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" height="25">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian" height="25">
-  <img src="https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" height="25">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" height="25">
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" height="25">
-</div>
+- 💬 Ask me about **Python, Cypress.io, Brokee.io**
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
+- 📫 How to reach me **angelomarchaidez@gmail.com**
 
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AngelChaidez&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AngelChaidez&hide=TeX&layout=compact)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/@angelchaidez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@angelchaidez" height="30" width="40" /></a>
+<a href="https://twitter.com/raiderbrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raiderbrick" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://linkedin.com/in/angel-chaidez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/angel-chaidez" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10195198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10195198" height="30" width="40" /></a>
+<a href="https://medium.com/@angelomarchaidez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@angelomarchaidez" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/angelomarchaidez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="angelomarchaidez" height="30" width="40" /></a>
+<a href="/https://medium.com/@angelomarchaidez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@angelomarchaidez" height="30" width="40" /></a>
+</p>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FAngelChaidezlabel=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FAngelChaidez)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-## ⚡ Certifications
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelchaidez&show_icons=true&locale=en&layout=compact" alt="angelchaidez" /></p>
 
-- AWS Certified DevOps Engineer - Professional
-  [AWS Certified DevOps Engineer - Associate](https://www.credly.com/badges/558530a8-d526-495c-be3f-eab9409743fc/public_url)
-  *Achieved on: 03/25/2023*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelchaidez&show_icons=true&locale=en" alt="angelchaidez" /></p>
 
-
-- Linux Essentials Certification
-  [Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000555660/pgtnmbmpkm)
-  *Achieved on: 02/02/2023*
-
-  	
-
-- Terraform Associate Certification
-  [Terraform Associate Certification](https://www.credly.com/badges/29930ab1-06db-432a-846e-929c6a44aaa5/public_url)
-  *Achieved on: 07/04/2023*
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelchaidez&" alt="angelchaidez" /></p>
