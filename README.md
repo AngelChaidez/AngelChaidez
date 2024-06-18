@@ -26,7 +26,7 @@
 ## ⚡ Certifications
 
 ### AWS Certified DevOps Engineer - Professional
-[![AWS Certified DevOps Engineer - Professional](https://images.credly.com/size/110x110/images/0f8f85f5-f388-4a1e-b85f-bab5a458f7b1/aws-certified-devops-engineer-professional.png)](https://www.credly.com/badges/558530a8-d526-495c-be3f-eab9409743fc/public_url)
+[![AWS Certified DevOps Engineer - Professional](https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
 *Achieved on: 03/25/2023*
 
 ### Linux Essentials Certification
