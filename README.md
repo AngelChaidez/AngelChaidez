@@ -29,13 +29,13 @@
 [![AWS Certified DevOps Engineer - Professional](https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
 *Achieved on: 03/25/2023*
 
-### Linux Essentials Certification
-[![Linux Essentials Certification](http://www.lpi.org/)
-*Achieved on: 02/02/2023*
-
 ### Terraform Associate Certification
 [![Terraform Associate Certification](https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)
 *Achieved on: 07/04/2023*
+
+### Linux Essentials Certification
+[![Linux Essentials Certification](http://www.lpi.org/](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000555660/pgtnmbmpkm)
+*Achieved on: 02/02/2023*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
